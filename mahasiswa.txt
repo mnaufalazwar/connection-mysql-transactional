@@ -1,0 +1,16 @@
+{
+    "nim":"123123",
+    "nama":"otot",
+    "ipk":4,
+    "jurusan":"fisika",
+    "alamat":{
+        "nim":"123123",
+        "nama_jalan":"kamarung",
+        "rt":"1",
+        "rw":"1",
+        "kode_desa":"1",
+        "kode_kec":"1",
+        "kode_kab":"1",
+        "kode_prop":"1"
+    }
+}
